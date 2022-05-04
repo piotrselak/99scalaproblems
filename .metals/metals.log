@@ -1,0 +1,9 @@
+2022.05.04 21:33:35 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/piotr/Projects/99scalaproblems/.metals/lsp.trace.json or /home/piotr/.cache/metals/lsp.trace.json
+2022.05.04 21:33:35 INFO  logging to file /home/piotr/Projects/99scalaproblems/.metals/metals.log
+2022.05.04 21:33:35 INFO  Started: Metals version 0.11.5 in workspace '/home/piotr/Projects/99scalaproblems' for client Visual Studio Code 1.66.2.
+2022.05.04 21:33:37 INFO  time: initialize in 1.9s
+2022.05.04 21:33:37 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.04 21:33:37 WARN  Build server is not auto-connectable.
+2022.05.04 21:35:00 WARN  no build target for: /home/piotr/Projects/99scalaproblems/src/main/scala/Main.scala
+2022.05.04 21:35:02 INFO  no build target found for /home/piotr/Projects/99scalaproblems/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.04 21:35:03 INFO  time: code lens generation in 3.5s
