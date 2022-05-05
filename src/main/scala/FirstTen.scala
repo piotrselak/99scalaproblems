@@ -1,10 +1,6 @@
+package main.scala
 
-// main function for testing functions
-@main
-def main() : Unit = 
-    println( flatten(List(List(1, 1), 2, List(3, List(5, 8)))) )
 
-//#01
 def last[A](list: List[A]): A = list.last
 
 //#02
