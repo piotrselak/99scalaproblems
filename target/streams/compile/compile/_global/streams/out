@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /home/piotr/Projects/99scalaproblems/src/main/scala/FirstTen.scala:26:42 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m26 |[0m[33mdef[0m [36mflatten[0m([36mlist[0m: [35mList[Any][0m): [35mList[Any][0m = list.flatMap[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                          [31m^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                       Found:    (Any => IterableOnce[Any]) => List[Any][0m
+[0m[[0m[31merror[0m] [0m[0m   |                       Required: List[Any][0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/piotr/Projects/99scalaproblems/target/scala-3.1.2/99scalaproblems_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstTen$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/piotr/Projects/99scalaproblems/target/scala-3.1.2/classes/FirstTen$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/piotr/Projects/99scalaproblems/target/scala-3.1.2/classes/main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstTen$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/piotr/Projects/99scalaproblems/target/scala-3.1.2/classes/FirstTen$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/piotr/Projects/99scalaproblems/target/scala-3.1.2/classes/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstTen$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/piotr/Projects/99scalaproblems/target/scala-3.1.2/classes/FirstTen$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
