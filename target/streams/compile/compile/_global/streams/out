@@ -1,6 +1,9 @@
-[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /home/piotr/Projects/99scalaproblems/src/main/scala/SecondTen.scala:14:79 [0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m14 |[0m[33mdef[0m [36mdecode[0m[[35mA[0m]([36mlist[0m: [35mList[(Int, A)][0m): [35mList[A][0m = list.flatMap( [36mx[0m => List.fill([31m1[0m)(x) )[0m
-[0m[[0m[31merror[0m] [0m[0m   |                                                                               [31m^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m   |                                                Found:    (x : (Int, A))[0m
-[0m[[0m[31merror[0m] [0m[0m   |                                                Required: A[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E086] Syntax Error: /home/piotr/Projects/99scalaproblems/src/main/scala/ThirdTen.scala:48:63 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m48 |[0m[33mdef[0m [36mlsort[0m[[35mA[0m]([36mlist[0m: [35mList[List[A]][0m): [35mList[List[A]][0m = list.sortBy(_.length < _.length)[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                               [31m^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                 Wrong number of parameters, expected: 1[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- Error: /home/piotr/Projects/99scalaproblems/src/main/scala/ThirdTen.scala:48:83 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m48 |[0m[33mdef[0m [36mlsort[0m[[35mA[0m]([36mlist[0m: [35mList[List[A]][0m): [35mList[List[A]][0m = list.sortBy(_.length < _.length)[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                                                   [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |ambiguous implicit arguments: both [33mobject[0m [35mByte[0m in [33mobject[0m [35mOrdering[0m and [33mobject[0m [35mInt[0m in [33mobject[0m [35mOrdering[0m match type Ordering[B] of parameter ord of [33mmethod[0m [35msortBy[0m in [33mtrait[0m [35mSeqOps[0m[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
