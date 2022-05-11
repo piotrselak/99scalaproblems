@@ -1,4 +1,4 @@
-package main.scala
+package main.scala.collections
 
 // #11
 def encodeModified[A](list: List[A]): List[Any] = 

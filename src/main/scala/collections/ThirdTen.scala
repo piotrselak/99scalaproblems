@@ -1,7 +1,4 @@
-package main.scala
-
-@main
-def main(): Unit = println( lsortFreq(List(List(3,2), List(5,6,7), List(9), List(), List(), List(), List(9, 8))) )
+package main.scala.collections
 
 // #21
 def insertAt[A](newElem: A, ind: Int, list: List[A]): List[A] =
@@ -39,7 +36,8 @@ def randomPermute[A](list: List[A]): List[A] = randomSelect(list.length, list)
 
 // #27 TODO!
 //a
-//def group3
+//def group3[A](list: List[A]) : List[List[List[A]]] =
+
 //b
 //def group
 

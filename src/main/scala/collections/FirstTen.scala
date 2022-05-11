@@ -1,4 +1,4 @@
-package main.scala
+package main.scala.collections
 
 
 def last[A](list: List[A]): A = list.last
